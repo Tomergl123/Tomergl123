@@ -17,6 +17,6 @@ I'm a 1st year student at Algonquin College studying computer systems, networkin
 - ENL1813T (Communications I)
 - CST8300 (Achieving Success in Changing Enviroments)
 
-Linkdin : [https://www.linkedin.com/in/tomergluzman/](url)
+Linkdin : https://www.linkedin.com/in/tomergluzman/
 
 I'm currently working on expanding my knowledge and skills in Python by creating applications and software to solve real world problems.
