@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a 1st year student at Algonquin College studying computer systems, networking, linux and windows administration and PC hardware.
+I'm a 2nd year student at Algonquin College studying computer systems, networking, linux and windows administration and PC hardware.
 
 🔭 I’m currently taking : 
 - CST8200 (Windows Domain Administration)
