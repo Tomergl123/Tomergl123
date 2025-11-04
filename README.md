@@ -5,7 +5,7 @@ I'm a 2nd year student at Algonquin College studying computer systems, networkin
 🔭 I’m currently taking : 
 - CST8206 (Foundation of IT Service Management)
 - CST8246 (Network Services Administration)
-- CST8316 (Pc Troubleshooting)
+- CST8316 (PC Troubleshooting)
 - CST8342 (Windows Enterprise Administration)
 - CST8371 (Introduction to Enterprise Networking)
 - DAT0129 (Database Management and Interfacing)
