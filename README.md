@@ -2,7 +2,7 @@
 
 I'm a 2nd year student at Algonquin College studying computer systems, networking, linux and windows administration, and PC hardware.
 
-🔭 I’m currently completing an 8-month co-op term at ([Ciena](https://www.ciena.com/?utm_campaign=X1080019&utm_source=Google&utm_term=&utm_medium=Text&lang=EN&si=Brand&s_kwcid=AL!12312!3!611363524698!p!!g!!ciena&gad_source=1&gad_campaignid=1719174703&gbraid=0AAAAAD8sSMvky-XtjvnvksSf5lmzkbpPZ&gclid=Cj0KCQiA0p7KBhCkARIsAE6XlalG0JcC4K03lNXOxMq8M_HqJb4czP_VMK-aD1eTianOK99itOkPB3gaAq0rEALw_wcB) as a **QA Automation Developer**
+🔭 I’m currently completing an 8-month co-op term at [Ciena](https://www.ciena.com/?utm_campaign=X1080019&utm_source=Google&utm_term=&utm_medium=Text&lang=EN&si=Brand&s_kwcid=AL!12312!3!611363524698!p!!g!!ciena&gad_source=1&gad_campaignid=1719174703&gbraid=0AAAAAD8sSMvky-XtjvnvksSf5lmzkbpPZ&gclid=Cj0KCQiA0p7KBhCkARIsAE6XlalG0JcC4K03lNXOxMq8M_HqJb4czP_VMK-aD1eTianOK99itOkPB3gaAq0rEALw_wcB) as a **QA Automation Developer**
 
 🌱 I've taken : 
 - CST8206 (Foundation of IT Service Management)
