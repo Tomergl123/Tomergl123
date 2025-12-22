@@ -2,15 +2,15 @@
 
 I'm a 2nd year student at Algonquin College studying computer systems, networking, linux and windows administration, and PC hardware.
 
-🔭 I’m currently taking : 
+🔭 I’m currently completing an 8-month co-op term at Ciena as a **QA Automation Developer**
+
+🌱 I've taken : 
 - CST8206 (Foundation of IT Service Management)
 - CST8246 (Network Services Administration)
 - CST8316 (PC Troubleshooting)
 - CST8342 (Windows Enterprise Administration)
 - CST8371 (Introduction to Enterprise Networking)
 - DAT0129 (Database Management and Interfacing)
-
-🌱 I've taken : 
 - CST8200 (Windows Domain Administration)
 - CST8208 (PC System Technology)
 - CST8305 (GNU/Linux Server Administration)
