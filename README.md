@@ -29,4 +29,14 @@ Linkdin : https://www.linkedin.com/in/tomergluzman/
 I'm currently working on expanding my knowledge and skills in Python and JavaScript by creating applications and software to solve real world problems.
 
 
-![Your Activity Graph](https://github-readme-stats.vercel.app/api?username=Tomergl123&show_icons=true&theme=dark)
+name: Most used
+uses: lowlighter/metrics@latest
+with:
+  filename: metrics.plugin.languages.svg
+  token: ${{ secrets.METRICS_TOKEN }}
+  base: ""
+  plugin_languages: yes
+  plugin_languages_ignored: >-
+    html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell,
+    gnuplot
+  plugin_languages_limit: 4
